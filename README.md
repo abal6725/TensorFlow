@@ -1,2 +1,2 @@
 # TensorFlow
-Using TensorFlow for text analysis and classification
+Using TensorFlow/TensorFlowHUB for text analysis and classification
